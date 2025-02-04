@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://imgs.search.brave.com/XrO0lA3_OOeftW6iRjM3S_YjdpP6pWhOjgbz4a18MIA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDExNjcx/NzgyLmpwZw);
+    background-repeat: repeat;
+}
+div.bloco{
+    background-image: url(../Fotos/wallpaper003.jpg);
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 10px;
+}
+div#q1{
+    background-position: left top;
+}
+div#q2{
+    background-position: left center;
+}
+div#q3{
+    background-position: right bottom;
+}
+div#q4{
+    background-position: center center;
+}
